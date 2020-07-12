@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I am a 2+2 student of Australian National University (ANU) and Northwestern Polytechnical University (NPU). I have received the degree of Bachelor of Advanced Computing (Honours) from the ANU and the degree of Bachelor of Engineering in Software Engineering from the NPU in July 2020. My honours project is Multi-view Detection for Densely Occluded Pedestrian supervised by Dr Liang Zheng in the ANU.
+
+- 🌱 Currently, I am looking for internship opportunities in China before starting my graduate life in America.
+
+- 📫 How to reach me: dong.jinguo@outlook.com
+
+- 🤔 Home page: http://djinguo.com/
+
+- ⚡ Blog: https://blog.djinguo.com/
+
 <!--
 **femj007/femj007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
