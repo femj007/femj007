@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm Jinguo, a 2+2 student of Australian National University (ANU) and Northwestern Polytechnical University (NPU). I have received the degree of Bachelor of Advanced Computing (Honours) from the ANU and the degree of Bachelor of Engineering in Software Engineering from the NPU in July 2020. My honours project is Multi-view Detection for Densely Occluded Pedestrian supervised by Dr Liang Zheng in the ANU.
+- 🔭 I'm Jinguo, a 2+2 student of Australian National University (ANU) and Northwestern Polytechnical University (NPU). I have been awarded the degree of Bachelor of Advanced Computing (Honours) from ANU and the degree of Bachelor of Engineering in Software Engineering from NPU in July 2020. My honours project is Multi-view Detection for Densely Occluded Pedestrian supervised by Dr Liang Zheng in ANU.
 
 - 🌱 Currently, I am looking for internship opportunities in China before starting my graduate life in America.
 
